@@ -9,7 +9,7 @@
 ## ***Tech Stack***
 - [***React.js***](https://reactjs.org): _A JavaScript library for building user interfaces_.
 - [***Lens Protocol***](https://www.lens.xyz): _A decentralized social network to call the blockchain_.
-- [***Charkra UI***](https://chakra-ui.com): _A simple, modular and accessible component library that builds your React applications._
+- [***Chakra UI***](https://chakra-ui.com): _A simple, modular and accessible component library that builds your React applications._
 - [***Ethers***](https://www.npmjs.com/package/ethers-react): _Libraries for building unstoppable web 3.0 applications._
 - [***graphQL***](https://graphql.org): _A query language for API_
 
