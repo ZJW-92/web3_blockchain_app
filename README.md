@@ -1,3 +1,19 @@
-# web3_blockchain_app
 
-a Web3 Blockchain Social Media App using React and Lens Protocol. This tutorial will utilize React, Chakra UI, and Lens Protocol to build a decentralized social media application.
+# ***[Web3 Blockchain App]()***
+
+***A decentralized social media application that you have your account but not privately owned but rather your account is saved in the public blockchain away from private ownership.***
+
+
+## ***Tech Stack***
+- [***React.js***](https://reactjs.org): _A JavaScript library for building user interfaces_.
+- [***Lens Protocol***](https://www.lens.xyz): _A decentralized social network to call the blockchain_.
+- [***Charkra UI***](https://chakra-ui.com): _A simple, modular and accessible component library that builds your React applications._
+- [***Ethers***](https://www.npmjs.com/package/ethers-react): _Libraries for building unstoppable web 3.0 applications._
+- [***graphQL***](https://graphql.org): _A query language for API_
+
+
+
+## ***Setup***
+- _1. Install Metamask extension in google browser_
+- _2. Run `npm install` to install other dependencies._
+- _3. Run `npm start` to start the app._
