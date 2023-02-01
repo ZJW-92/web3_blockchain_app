@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Maven Pro", !important;
+}
+
+img {
+  max-width: none !important;
+  border-radius: 50%;
+}
+
+.app {
+  background: url("./assets/gradient-background2.png") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
