@@ -1,5 +1,7 @@
 
-# ***[Web3 Blockchain App]()***
+# ***[Web3 Blockchain Social Media App](https://blockchain-social-media.netlify.app/)***
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52016d05-4ed8-4426-b7d0-8609f24fdc32/deploy-status)](https://app.netlify.com/sites/blockchain-social-media/deploys)
 
 ***A decentralized social media application that you have your account but not privately owned but rather your account is saved in the public blockchain away from private ownership.***
 
