@@ -17,3 +17,11 @@
 - _1. Install Metamask extension in google browser_
 - _2. Run `npm install` to install other dependencies._
 - _3. Run `npm start` to start the app._
+
+
+## ***🎨Color Reference*** 
+|  _Color_ | _Hex_  |  
+|---  |  ---|
+| _Blue_ | #0ea5ea  |  
+| _Blue green_ | #0bd1d1|
+| _Navy_  |  #0a192f |   
